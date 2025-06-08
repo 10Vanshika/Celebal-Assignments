@@ -1,0 +1,12 @@
+Create lower triangular, upper triangular, and pyramid patterns containing the "*" character
+
+Assignment Description
+This Python program demonstrates how to create three common star (*) patterns using loops:
+
+Lower Triangular Pattern
+
+Upper Triangular Pattern (Inverted)
+
+Pyramid Pattern (Centered)
+
+These patterns are a fundamental exercise for mastering nested loops, control flow, and console output formatting in Python.
